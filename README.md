@@ -109,7 +109,7 @@ POST /sessions/book   POST /checkin/{id}   POST /payments
 
 ## 👨‍💻 Author
 
-**Vinay** | Intern ID: IN226095802
+**Sri Vinay Vatti** | Intern ID: IN226095802
 Innomatics Research Labs — FastAPI Internship
 
 ---
